@@ -1,8 +1,8 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "## Your Task",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
@@ -11,18 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com/woodstr3313/E-Commerce.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^2.0.3"
+  "bugs": {
+    "url": "https://github.com/woodstr3313/E-Commerce/issues"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.18.1",
+    "express": "^4.17.1",
     "mysql2": "^2.1.0",
     "sequelize": "^5.21.7"
-  }
+  },
+  "homepage": "https://github.com/woodstr3313/E-Commerce#readme"
 }
