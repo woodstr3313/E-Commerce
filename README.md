@@ -31,7 +31,9 @@
   ![In Insomnia, the user tests “GET one Product”.](./Assets/Single%20Get%20Product.png)
 
   ![In Insomnia, the user tests “Post single Product”.](./Assets/Update%20Existing%20Products.png)
-
+  Walkthrough video. Sorry for the cutoff screencastify only allows 5 minutes. I hope this video provided you enough information to get started working in the database. Thanks!
+  
+  ![Walkthrough Video](https://drive.google.com/file/d/1uiW58XYyMTos8hFJyslyRM0vlJXX1c7y/view)
 
 ## License
 ![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)
