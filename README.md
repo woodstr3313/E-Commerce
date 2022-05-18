@@ -1,7 +1,7 @@
 # E-Commerce
 
 ## Description
-  This application was created for an e-commerce site to interact with their database. It allows the user to access the database to view inventory,create new inventory, update existing inventory or deleting non existent inventory. 
+  This application was created for an e-commerce site to interact with their database. It allows the user to access the database to view inventory, create new inventory, update existing inventory or delete inventory. 
 
 ## Table of Contents 
 
